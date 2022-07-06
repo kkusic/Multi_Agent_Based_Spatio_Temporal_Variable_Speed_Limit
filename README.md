@@ -54,7 +54,7 @@ Notes: Please contact us (see details in the article below)!
 
 
 
-# How To setup entire learning-based simulation framework (SUMO-Python-Distributed W-Learning (DWL) algorithm
+# How to set up DWL-ST-VSL simulation framework (SUMO-Python)
 Note: we need SUMO and Python (with some additional packages), If you follow carefully steps everything should run smoothly **(Update the necessary paths!)**
      
 
