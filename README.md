@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 ## SUMO setup:
 Note: in the paper, we used an older version, so the results might slightly vary depending on the SUMO version as well as on the process of training the machine-learning agents<br/>
-Instal SUMO (we tested DWL-ST-VSL in version Latest Development Version SUMO1.13.0 for Windows 64-bit (May 30 2022 23:15:46 UTC)
+Install SUMO: (we tested DWL-ST-VSL in version Latest Development Version SUMO1.13.0 for Windows 64-bit, (May 30 2022 23:15:46 UTC), you can install the latest available version too.
 
 # Run Scenario I
 
