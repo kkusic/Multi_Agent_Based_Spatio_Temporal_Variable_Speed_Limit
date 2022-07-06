@@ -8,7 +8,8 @@ This repository includes all the files required to run the simulations used to p
 ## (SCENARIO-I) Simulation of dynamic variable speed limit zones allocation using two collaborative agents controlling two segments upstream of the congestion area in SUMO:
 Notes: Medium traffic load  
 * SUMO synthetic motorway model and traffic scenario,
-* python code for: 
+* python code for:<br/>
+
 (I) Machine learnin code for training of Distributed W-Learnin based Multi-Agent Reinforcement Learning (RL)-based VSL controller (DWL-ST-VSL),<br/>
 (II) Code (Python-TraCI) for adaptive VSL zones allocation in microscopic simulator SUMO,<br/>
 (III) Analytics (writting results **traffic parameters**, **controller parameters**, **plotting spatiotemporal traffic characteristics and dynamic VSL zones allocation** (comparison between NO-VSL and DWL-ST-VSL).
