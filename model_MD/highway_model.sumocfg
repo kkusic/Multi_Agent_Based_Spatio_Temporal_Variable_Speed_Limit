@@ -1,0 +1,12 @@
+<configuration>
+	<input>
+		<net-file value="my_net_15_2_2021.net.xml"/>
+		<route-files value="od_route_file.odtrips.rou.xml"/>
+		<gui-settings-file value="my_speed_view.xml"/>
+	</input>
+
+	<time>
+		<begin value="0"/>
+		<end value="5400"/>
+	</time>
+</configuration>
