@@ -89,7 +89,7 @@ activate virtual environemt
 ```
 C:\Users\kkusic\Desktop\DWL-ST-VSL>venvDWLSTVSL\Scripts\activate
 ```
-run dynamic flow simulation script:
+run simulation script:
 ```
 (venvDWLSTVSL) C:\Users\kkusic\Desktop\DWL-ST-VSL>python DWL_ST_VSL_2Agents.py
 ```
