@@ -11,7 +11,7 @@ Notes: Medium traffic load
 * python code for:<br/>
 
 (I) Machine learnin code for training of Distributed W-Learnin based Multi-Agent Reinforcement Learning (RL)-based VSL controller (DWL-ST-VSL),<br/>
-(II) Code (Python-TraCI) for adaptive VSL zones allocation in microscopic simulator SUMO,<br/>
+(II) Code (Python-TraCI) for adaptive VSL zones allocation in **microscopic simulator SUMO**,<br/>
 (III) Analytics (writting results **traffic parameters**, **controller parameters**, **plotting spatiotemporal traffic characteristics and dynamic VSL zones allocation** (comparison between NO-VSL and DWL-ST-VSL).
 
 Please use the following citation when referencing our work. Thanks!
