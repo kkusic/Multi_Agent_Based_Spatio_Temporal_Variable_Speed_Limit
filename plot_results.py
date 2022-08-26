@@ -28,8 +28,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-path_results = "C:/Users/kusic/Desktop/KK/SUMO/WL_analysis/reward_freeSpeed_or_TTS/"+""+\
-"DWL_v2p1p2_betaPonder_1TTS3/GIT/MD_C_0_75_W_on_LP_RP/Results/"
+path_results = "C:/Users/kusic/Desktop/DWL-ST-VSL/Results/"
 
 start_exploit=14000+1 # Start exploitation phase
 end_exploit=14100 # End exploitation phase
