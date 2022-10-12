@@ -97,7 +97,10 @@ when simulations are finished, plot results and print analytics -> run the scrip
 ```
 (venvDWLSTVSL) C:\Users\kkusic\Desktop\DWL-ST-VSL>python plot_results.py
 ```
-
+or
+```
+(venvDWLSTVSL) C:\Users\kkusic\Desktop\DWL-ST-VSL>python plot_TTS_convergence.py
+```
 
 ## Users
 *
